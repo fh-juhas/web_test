@@ -1,0 +1,12 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #622f62;
+  font-family: "Oxygen", sans-serif;
+
+#header-nav {
+  background-color: #f6b319;
+  border-radius: 0;
+  border: 0;
+}
+}
