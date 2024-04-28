@@ -12,17 +12,14 @@
 
 .navbar-brand{
   font-size: 35px;
-  color: white;
+
   padding-left: 25px;
 }
 
-.navbar-brand:hover{
-	color: white;
-}
 
 .nav{
-	margin: 0;
-	padding: 0;
+	margin: 5px;
+	padding: 5px;
 }
 
 .navbar-nav{
@@ -32,14 +29,19 @@
   padding: 0;
 }
 
-.navbar-toggle .icon-bar{
-    height: 2px;
+.navbar-toggle
+{
+    height: 20px;
+    width: 0.5 em;
+    
+}
+.icon-bar{
+    height: 20px;
 	width: 10px;
+    border: 2px;
 }
 
-.icon-bar{
-	background-color: white;
-}
+
 
 
 .main-title{
